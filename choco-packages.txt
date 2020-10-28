@@ -1,0 +1,7 @@
+telegram
+microsoft-windows-terminal
+ultrasearch
+autohotkey
+powertoys
+git
+clink
