@@ -1,3 +1,6 @@
+# What is it?
+Follow these steps to make your Window became a fully capable development OS.
+
 # Install winget
 https://github.com/microsoft/winget-cli
 As of 17.11.20 winget only available for insider
