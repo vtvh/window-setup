@@ -1,6 +1,9 @@
 # What is it?
 Follow these steps to make your Window became a fully capable development OS.
 
+## install wsl2
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
 # Install winget
 https://github.com/microsoft/winget-cli
 As of 17.11.20 winget only available for insider
