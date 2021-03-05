@@ -15,6 +15,8 @@ use the setup file `Colemak2_amd64.msi`
 # Use sharpkey and map Capslock to Left control
 https://github.com/randyrants/sharpkeys
 
+# install ahk (Auto Hot Key)
+
 # win10 setup script
 
 ....
