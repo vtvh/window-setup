@@ -13,7 +13,7 @@ http://bit.ly/vtvhclm
 use the setup file `Colemak2_amd64.msi`
 
 # Use sharpkey and map Capslock to Left control
-https://github.com/randyrants/sharpkeys
+https://github.com/randyrants/sharpkeys/releases
 
 # install ahk (Auto Hot Key)
 
@@ -27,7 +27,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 choco install xxx
 
 # Fonts
-- noto
++ noto
 https://noto-website-2.storage.googleapis.com/pkgs/Noto-unhinted.zip
 
 # clink install
@@ -42,3 +42,4 @@ https://www.makeuseof.com/tag/3-quickest-ways-turn-computer-screen-windows/
 nircmd.exe cmdshortcutkey "c:\temp" "Turn Monitor Off" monitor off
 
 # This gist seem powerful
+e
