@@ -1,3 +1,7 @@
+# Add Colemak keyboard
+https://colemak.com/Windows
+use the setup file `Colemak2_amd64.msi`
+
 # What is it?
 Follow these steps to make your Window became a fully capable development OS.
 
@@ -8,9 +12,6 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 https://github.com/microsoft/winget-cli
 As of 17.11.20 winget only available for insider
 
-# Add Colemak keyboard
-http://bit.ly/vtvhclm
-use the setup file `Colemak2_amd64.msi`
 
 # Use sharpkey and map Capslock to Left control
 https://github.com/randyrants/sharpkeys/releases
