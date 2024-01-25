@@ -5,7 +5,9 @@ use the setup file `Colemak2_amd64.msi`
 # What is it?
 Follow these steps to make your Window became a fully capable development OS.
 
-## install wsl2
+## install wsl
+wsl --list --online
+wsl --install -d kali-linux
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 # Install winget
