@@ -1,48 +1,17 @@
-# Add Colemak keyboard
+## Add Colemak keyboard
 https://colemak.com/Windows
 use the setup file `Colemak2_amd64.msi`
-
-# What is it?
-Follow these steps to make your Window became a fully capable development OS.
 
 ## install wsl
 wsl --list --online
 wsl --install -d kali-linux
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-# Install winget
-https://github.com/microsoft/winget-cli
-As of 17.11.20 winget only available for insider
-
-
-# Use sharpkey and map Capslock to Left control
+## Use sharpkey and map Capslock to Left control
 https://github.com/randyrants/sharpkeys/releases
 
-# install ahk (Auto Hot Key)
-
-# win10 setup script
-
-....
-install wsl2
-https://gist.github.com/yusiwen/1836be1767a9f4ba870ae67b1818d57b
-https://docs.microsoft.com/en-us/windows/wsl/install-win10
-
-choco install xxx
-
-# Fonts
-+ noto
-https://noto-website-2.storage.googleapis.com/pkgs/Noto-unhinted.zip
-
-# clink install
-read the usages
-https://mridgers.github.io/clink/
-
-https://github.com/mridgers/clink/releases/download/0.4.9/clink_0.4.9_setup.exe
-
-# monitor off shortcut
+## Screen off script
+https://gist.github.com/EugeneLoy/150044d04b08e35d09e164c864e78da7
 https://www.makeuseof.com/tag/3-quickest-ways-turn-computer-screen-windows/
 
-nircmd.exe cmdshortcutkey "c:\temp" "Turn Monitor Off" monitor off
 
-# This gist seem powerful
-e
